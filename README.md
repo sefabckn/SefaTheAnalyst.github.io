@@ -64,7 +64,7 @@
 
 - 📍 **Location**: Warsaw, Poland
 - 💼 [LinkedIn](https://www.linkedin.com/in/sefabckn/)
-- 📧 Email: your.email@example.com
+- 📧 Email: sefabckn@gmail.com
 - 🌐 [Portfolio Website](https://sefabckn.github.io/)
 
 ---
